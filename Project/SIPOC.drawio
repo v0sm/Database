@@ -1,0 +1,181 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
+    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="1070" height="833" as="geometry" />
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-1">
+          <mxGeometry width="1070" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-2">
+          <mxGeometry width="191" height="133" as="geometry">
+            <mxRectangle width="191" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-4" value="Поставщик" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-2">
+          <mxGeometry x="191" width="219" height="133" as="geometry">
+            <mxRectangle width="219" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-5" value="Входные данные" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-2">
+          <mxGeometry x="410" width="240" height="133" as="geometry">
+            <mxRectangle width="240" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-22" value="Процесс" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-2">
+          <mxGeometry x="650" width="220" height="133" as="geometry">
+            <mxRectangle width="220" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-32" value="Выходные данные" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-2">
+          <mxGeometry x="870" width="200" height="133" as="geometry">
+            <mxRectangle width="200" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-1">
+          <mxGeometry y="133" width="1070" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-7" value="Администратор" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-6">
+          <mxGeometry width="191" height="157" as="geometry">
+            <mxRectangle width="191" height="157" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-8" value="&lt;b&gt;Поставщик: Администратор&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Администратор управляет следующими данными: заработная плата, график работы и личные данные персонала&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-6">
+          <mxGeometry x="191" width="219" height="157" as="geometry">
+            <mxRectangle width="219" height="157" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-9" value="&lt;b&gt;Вход: Персональная информация&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Включает: ФИО, дата рождения, паспорт, прописка, медецинская справка, ИНН и СНИЛС&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-6">
+          <mxGeometry x="410" width="240" height="157" as="geometry">
+            <mxRectangle width="240" height="157" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-23" value="&lt;b&gt;Процесс: Управление данными&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Вносит изменения только Администратор, данные хранятся в защищённой системе&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-6">
+          <mxGeometry x="650" width="220" height="157" as="geometry">
+            <mxRectangle width="220" height="157" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-33" value="&lt;b&gt;Выход: Обновлённые данные персонала&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Актуальные данные сотрудников организации&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-6">
+          <mxGeometry x="870" width="200" height="157" as="geometry">
+            <mxRectangle width="200" height="157" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-1">
+          <mxGeometry y="290" width="1070" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-11" value="Продавец" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-10">
+          <mxGeometry width="191" height="133" as="geometry">
+            <mxRectangle width="191" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-12" value="&lt;b&gt;Поставщик: Администратор&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Продавец имеет доступ к изменениям на основе вводных администратором данных&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-10">
+          <mxGeometry x="191" width="219" height="133" as="geometry">
+            <mxRectangle width="219" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-13" value="&lt;b&gt;Вход: Управление складом&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Включает операции по наполнению и изменению данных склада.&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-10">
+          <mxGeometry x="410" width="240" height="133" as="geometry">
+            <mxRectangle width="240" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-24" value="&lt;b&gt;Процесс: Торговля&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Процессы продажи и управления товаром осуществляются Продавцом&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-10">
+          <mxGeometry x="650" width="220" height="133" as="geometry">
+            <mxRectangle width="220" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-34" value="&lt;b&gt;Выход: Операции с товаром&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Генерация записей о произведённых покупках и изменениях на складе&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-10">
+          <mxGeometry x="870" width="200" height="133" as="geometry">
+            <mxRectangle width="200" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-14" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-1">
+          <mxGeometry y="423" width="1070" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-15" value="Покупатель" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-14">
+          <mxGeometry width="191" height="131" as="geometry">
+            <mxRectangle width="191" height="131" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-16" value="&lt;b&gt;Поставщик: Касса&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Касса генерирует записи о покупателе&amp;nbsp; и управляет междоменными данными&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-14">
+          <mxGeometry x="191" width="219" height="131" as="geometry">
+            <mxRectangle width="219" height="131" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-17" value="&lt;b&gt;Вход: Автоматизированная регистрация&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Система фиксирует уникальный ID покупки и источник средств&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-14">
+          <mxGeometry x="410" width="240" height="131" as="geometry">
+            <mxRectangle width="240" height="131" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-25" value="&lt;b&gt;Процесс: Покупка&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Процесс купли-продажи фиксируется и обрабатывается с использованием данных кассы&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-14">
+          <mxGeometry x="650" width="220" height="131" as="geometry">
+            <mxRectangle width="220" height="131" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-35" value="&lt;b&gt;Выход: Завершённая покупка&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Генерация отчёта о покупке для дальнейшей обработки и учёта&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-14">
+          <mxGeometry x="870" width="200" height="131" as="geometry">
+            <mxRectangle width="200" height="131" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-1">
+          <mxGeometry y="554" width="1070" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-38" value="Склад" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-37">
+          <mxGeometry width="191" height="146" as="geometry">
+            <mxRectangle width="191" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-39" value="&lt;b&gt;Поставщик: Продавец и Администратор&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Продавец и Администратор имеют доступ к изменениям данных на складе&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-37">
+          <mxGeometry x="191" width="219" height="146" as="geometry">
+            <mxRectangle width="219" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-40" value="&lt;b&gt;Вход: Оперативная информация&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Данные по операции и насыщенности склада&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-37">
+          <mxGeometry x="410" width="240" height="146" as="geometry">
+            <mxRectangle width="240" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-41" value="&lt;b&gt;Процесс: Управление запасами&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Поддержание актуальности данных по торговому имуществу и его изменениям&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-37">
+          <mxGeometry x="650" width="220" height="146" as="geometry">
+            <mxRectangle width="220" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-42" value="&lt;b&gt;Выход: Актуальные данные склада&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Отчёты о текущей насыщенности и состоянии складских ресурсов&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-37">
+          <mxGeometry x="870" width="200" height="146" as="geometry">
+            <mxRectangle width="200" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-1">
+          <mxGeometry y="700" width="1070" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-19" value="Торговое имущество" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-18">
+          <mxGeometry width="191" height="133" as="geometry">
+            <mxRectangle width="191" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-20" value="&lt;b&gt;Поставщик: Продавец и Администратор&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Поставляют информацию о текущем состоянии и доступности товара&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-18">
+          <mxGeometry x="191" width="219" height="133" as="geometry">
+            <mxRectangle width="219" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-21" value="&lt;b&gt;Вход: Данные товара&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Включает: ID, годность, цену и количество товара, категорию&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-18">
+          <mxGeometry x="410" width="240" height="133" as="geometry">
+            <mxRectangle width="240" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-26" value="&lt;b&gt;Процесс: Инвентаризация&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Учёт и оценка товарных запасов по установленным критериям&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-18">
+          <mxGeometry x="650" width="220" height="133" as="geometry">
+            <mxRectangle width="220" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4NibfiNw-G-Ft9XOxcHJ-36" value="&lt;b&gt;Выход: Обновлённые товарные запасы&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Актуальные данные о количестве и состоянии товарных запасов&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4NibfiNw-G-Ft9XOxcHJ-18">
+          <mxGeometry x="870" width="200" height="133" as="geometry">
+            <mxRectangle width="200" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
